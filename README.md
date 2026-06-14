@@ -6,7 +6,7 @@
 
 ## Descrição
 
-O **Cuida de Mim** é uma plataforma web que permite ao utilizador acompanhar a sua saúde diária de forma organizada e simples. Inclui gestão de medicamentos, registo de tensão arterial e peso, agendamento de consultas, diário de saúde, estatísticas, relatórios PDF e notificações por WhatsApp.
+A **Cuida de Mim** é uma plataforma web que permite ao utilizador acompanhar a sua saúde diária de forma organizada e simples. Inclui gestão de medicamentos, registo de tensão arterial e peso, agendamento de consultas, diário de saúde, estatísticas, relatórios PDF e notificações por WhatsApp.
 
 ---
 
